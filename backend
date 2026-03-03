@@ -18,15 +18,11 @@ app.add_middleware(
 
 
 # Supabase
-SUPABASE_URL = "https://umtiwqcykzkwguqxtccl.supabase.co"
-SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InVtdGl3cWN5a3prd2d1cXh0Y2NsIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc2OTI3OTA5MiwiZXhwIjoyMDg0ODU1MDkyfQ.Anvvpjl1TVSenJX26cxsUa54UoYIVUMXciPkjY3V4G4"
 
 supabase: Client = create_client(SUPABASE_URL, SUPABASE_KEY)
 
 
 # API KEYS
-ELEVENLABS_API_KEY = "sk_c1d2cc26ef502a620c3e8b3b43f6ceb827d88f593f8da7cd"
-OPENAI_API_KEY = "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"
 
 openai_client = OpenAI(api_key=OPENAI_API_KEY)
 
