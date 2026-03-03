@@ -6,6 +6,14 @@ Vocamed is an AI-powered medical scribe system designed to help healthcare profe
 The system records conversations, transcribes audio using AI speech-to-text services, and automatically structures medical information into SOAP format.
 
 ---
+![IMG_4492 (1)](https://github.com/user-attachments/assets/53bc5382-dc21-4b12-9ba6-5cd5dd4e6d08)
+
+![IMG_4491 (1)](https://github.com/user-attachments/assets/42723a28-6007-4e3b-a402-2b831ed8d438)
+
+![IMG_4490 (1)](https://github.com/user-attachments/assets/cb5580ba-5d80-42bd-8da0-727a2f09119a)
+
+
+
 
 ## 🎯 Purpose
 
